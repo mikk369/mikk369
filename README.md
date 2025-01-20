@@ -31,8 +31,8 @@ I'm **[Mikk Ereline]**, developer who loves building web applications, solving p
 ## 📫 Connect With Me
 - 🌐 [![Portfolio Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome&logoColor=white)](https://webcodes.ee/)
 - 🚀 [![Other Projects](https://img.shields.io/badge/Projects-Explore-orange?style=flat&logo=github&logoColor=white)](https://portfolio.webcodes.ee/)
-- 🐦 [Twitter](#)  
-- 💼 [LinkedIn](#)
+- 📧 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:mikk.ereline@gmail.com)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikk-ereline/)
 
 ---
 _✨ Thank you for visiting! Let’s create something amazing together! ✨_
