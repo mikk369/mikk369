@@ -1,7 +1,7 @@
 # 👋 Hello there!
 
 Welcome to my GitHub profile!  
-I'm **[Mikk Ereline]**, a passionate developer who loves building web applications, solving problems, and creating user-friendly experiences.
+I'm **[Mikk Ereline]**, developer who loves building web applications, solving problems, and creating user-friendly experiences.
 
 ---
 
