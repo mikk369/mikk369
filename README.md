@@ -6,7 +6,6 @@ I'm **[Mikk Ereline]**, developer who loves building web applications, solving p
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently exploring new technologies and frameworks.
 - 💻 I enjoy working on both front-end and back-end projects.
 - 🛠️ I specialize in **React**, **JavaScript**, **PHP**, and **WordPress**.
 - 🌐 Always striving to learn and share knowledge with the developer community.
